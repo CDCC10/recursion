@@ -1,4 +1,4 @@
-package exercise5;
+package OOP.exercise5;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package exercise5;
+package OOP.exercise5;
 
 public class Control {
     public static void main(String[] args) {

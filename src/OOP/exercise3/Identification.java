@@ -1,4 +1,4 @@
-package exercise3;
+package OOP.exercise3;
 
 /**
  * A person identification system in the crime fighting office wants to have

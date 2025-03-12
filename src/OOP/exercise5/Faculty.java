@@ -1,4 +1,4 @@
-package exercise5;
+package OOP.exercise5;
 
 public class Faculty {
     private Building[] buildings = new Building[5];

@@ -1,4 +1,4 @@
-package exercise2;
+package OOP.exercise2;
 
 public class CellularTelephony extends Service {
 }

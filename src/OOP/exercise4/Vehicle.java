@@ -1,4 +1,4 @@
-package exercise4;
+package OOP.exercise4;
 
 public interface Vehicle {
     int getMoney();

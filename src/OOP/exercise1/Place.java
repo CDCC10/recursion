@@ -1,4 +1,4 @@
-package exercise1;
+package OOP.exercise1;
 
 public class Place {
     private int type;

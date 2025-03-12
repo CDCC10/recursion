@@ -1,4 +1,4 @@
-package exercise4;
+package OOP.exercise4;
 
 public class Passenger {
     private String name;

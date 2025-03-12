@@ -1,4 +1,4 @@
-package exercise3;
+package OOP.exercise3;
 
 public class LowerFace {
     private String mouth;
